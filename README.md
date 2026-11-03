@@ -6,14 +6,16 @@ A World of Warcraft 3.3.5a addon for the home screen of
 [mod-playerhousing](https://github.com/buildthehomelab/wow-mod-playerhousing): after logging in you
 land in the world at your plot instead of on character select, and pick a character from there.
 
-On the server's viewer character it hides the UI, turns the camera slowly and lists your characters.
+On the server's viewer character it hides the UI and lists your characters, and the top ones (favourites first)
+stand in the yard as figures.
 On any other character it does nothing, apart from saying how long Play took.
 
 ## What it adds
 
 - **Your characters:** a window listing them, a dozen to a page. Pick one and click **Play**.
+- **Figures:** click a character standing in the yard, or their pet, to pick them. Hover for a name.
 - **Character select:** a button that takes you there, to create or delete a character.
-- **Camera:** stop or restart the turn, and save the view you like. It comes back next time.
+- **Camera:** start or stop a slow turn, and save the view you like. It comes back next time.
 - **Show UI:** brings the normal UI back. From there, `/homescreen` brings the window back.
 
 ## Requirements
