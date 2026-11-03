@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: Home Screen
+## Notes: The character list on your home screen (the server needs mod-playerhousing).
+## Author: buildthehomelab
+## Version: 1.0.0
+## SavedVariables: HomeScreenDB
+
+HomeScreen.lua
